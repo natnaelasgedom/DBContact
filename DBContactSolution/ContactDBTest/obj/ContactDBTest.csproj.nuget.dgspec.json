@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBTest\\ContactDBTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBLibrary\\ContactDBLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBLibrary\\ContactDBLibrary.csproj",
+        "projectName": "ContactDBLibrary",
+        "projectPath": "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBLibrary\\ContactDBLibrary.csproj",
+        "packagesPath": "C:\\Users\\Natnael Asgedom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natnael Asgedom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBTest\\ContactDBTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBTest\\ContactDBTest.csproj",
+        "projectName": "ContactDBTest",
+        "projectPath": "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBTest\\ContactDBTest.csproj",
+        "packagesPath": "C:\\Users\\Natnael Asgedom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natnael Asgedom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBLibrary\\ContactDBLibrary.csproj": {
+                "projectPath": "C:\\Users\\Natnael Asgedom\\Google Drive\\AW Academy\\Uke 05\\DBContactSolution\\ContactDBLibrary\\ContactDBLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

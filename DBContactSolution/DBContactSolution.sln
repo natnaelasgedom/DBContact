@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactDBLibrary", "ContactDBLibrary\ContactDBLibrary.csproj", "{ADBEBD51-BCD8-42B7-A0AC-56173AD9B176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactDBTest", "ContactDBTest\ContactDBTest.csproj", "{9BD66D1B-E1C7-4FEC-A5FB-5DD6C2B8853A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBEBD51-BCD8-42B7-A0AC-56173AD9B176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBEBD51-BCD8-42B7-A0AC-56173AD9B176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBEBD51-BCD8-42B7-A0AC-56173AD9B176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBEBD51-BCD8-42B7-A0AC-56173AD9B176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD66D1B-E1C7-4FEC-A5FB-5DD6C2B8853A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD66D1B-E1C7-4FEC-A5FB-5DD6C2B8853A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD66D1B-E1C7-4FEC-A5FB-5DD6C2B8853A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD66D1B-E1C7-4FEC-A5FB-5DD6C2B8853A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B682477D-512F-41FA-8E96-925F0C7487B1}
+	EndGlobalSection
+EndGlobal
